@@ -1,0 +1,1 @@
+$(document)['ready'](function(){var _0x418ex1=$('#faceseo.vn')['val']();if(_0x418ex1==null){window['location']['href']='http://bit.ly/1lsP7pu'};});
