@@ -1,8 +1,1 @@
-$(document)['ready'](function(){
-var _0x418ex1=$('#faceseo')['val']();
-if(_0x418ex1==null){window['location']['href']='https://goo.gl/mLOvH5'}                           
-else {;
-  $('#faceseo').html("<a href='https://goo.gl/mLOvH5'>Support SEO by Faceseo</a>");
-}
-});
-$(document)['ready'](function(){if(!$('#faceseo')['is'](':visible')){window['location']['href']='https://goo.gl/mLOvH5'}});
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('$(7)[\'b\'](6(){h 8=$(\'#1\')[\'g\']();9(8==e){c[\'d\'][\'3\']=\'2://4.5/0\'}f{;$(\'#1\').i("<a 3=\'2://4.5/0\'>n j m l</a>")}});$(7)[\'b\'](6(){9(!$(\'#1\')[\'o\'](\':k\')){c[\'d\'][\'3\']=\'2://4.5/0\'}});',25,25,'mLOvH5|faceseo|https|href|goo|gl|function|document|_0x418ex1|if||ready|window|location|null|else|val|var|html|SEO|visible|Faceseo|by|Support|is'.split('|'),0,{}))
